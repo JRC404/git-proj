@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JRC404/git-proj/issues"
   },
-  "homepage": "https://github.com/JRC404/git-proj#readme"
+  "homepage": "https://github.com/JRC404/git-proj#readme",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
 }
